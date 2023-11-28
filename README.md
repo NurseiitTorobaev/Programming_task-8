@@ -1,1 +1,1 @@
-# task7
+Repository contains all problems with one-dimensional arrays.
